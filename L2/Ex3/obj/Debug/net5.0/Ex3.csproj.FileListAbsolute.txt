@@ -1,0 +1,16 @@
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex3\obj\Debug\net5.0\Ex3.csprojAssemblyReference.cache
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex3\obj\Debug\net5.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex3\obj\Debug\net5.0\Ex3.AssemblyInfoInputs.cache
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex3\obj\Debug\net5.0\Ex3.AssemblyInfo.cs
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex3\obj\Debug\net5.0\Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex3\bin\Debug\net5.0\Ex3.exe
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex3\bin\Debug\net5.0\Ex3.deps.json
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex3\bin\Debug\net5.0\Ex3.runtimeconfig.json
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex3\bin\Debug\net5.0\Ex3.runtimeconfig.dev.json
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex3\bin\Debug\net5.0\Ex3.dll
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex3\bin\Debug\net5.0\ref\Ex3.dll
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex3\bin\Debug\net5.0\Ex3.pdb
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex3\obj\Debug\net5.0\Ex3.dll
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex3\obj\Debug\net5.0\ref\Ex3.dll
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex3\obj\Debug\net5.0\Ex3.pdb
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex3\obj\Debug\net5.0\Ex3.genruntimeconfig.cache
