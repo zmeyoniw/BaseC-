@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex3/1.0.0": {
+        "dependencies": {
+          "ArrayLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Ex3.dll": {}
+        }
+      },
+      "ArrayLibrary/1.0.0": {
+        "runtime": {
+          "ArrayLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArrayLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

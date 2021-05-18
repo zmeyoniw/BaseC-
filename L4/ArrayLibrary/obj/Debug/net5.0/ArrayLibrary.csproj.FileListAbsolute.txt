@@ -1,0 +1,12 @@
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L4\ArrayLibrary\bin\Debug\net5.0\ArrayLibrary.deps.json
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L4\ArrayLibrary\bin\Debug\net5.0\ArrayLibrary.dll
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L4\ArrayLibrary\bin\Debug\net5.0\ref\ArrayLibrary.dll
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L4\ArrayLibrary\bin\Debug\net5.0\ArrayLibrary.pdb
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L4\ArrayLibrary\obj\Debug\net5.0\ArrayLibrary.csprojAssemblyReference.cache
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L4\ArrayLibrary\obj\Debug\net5.0\ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L4\ArrayLibrary\obj\Debug\net5.0\ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L4\ArrayLibrary\obj\Debug\net5.0\ArrayLibrary.AssemblyInfo.cs
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L4\ArrayLibrary\obj\Debug\net5.0\ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L4\ArrayLibrary\obj\Debug\net5.0\ArrayLibrary.dll
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L4\ArrayLibrary\obj\Debug\net5.0\ref\ArrayLibrary.dll
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L4\ArrayLibrary\obj\Debug\net5.0\ArrayLibrary.pdb
