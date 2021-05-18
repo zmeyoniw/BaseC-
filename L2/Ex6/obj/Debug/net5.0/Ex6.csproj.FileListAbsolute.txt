@@ -1,0 +1,15 @@
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex6\bin\Debug\net5.0\Ex6.exe
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex6\bin\Debug\net5.0\Ex6.deps.json
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex6\bin\Debug\net5.0\Ex6.runtimeconfig.json
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex6\bin\Debug\net5.0\Ex6.runtimeconfig.dev.json
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex6\bin\Debug\net5.0\Ex6.dll
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex6\bin\Debug\net5.0\ref\Ex6.dll
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex6\bin\Debug\net5.0\Ex6.pdb
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex6\obj\Debug\net5.0\Ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex6\obj\Debug\net5.0\Ex6.AssemblyInfoInputs.cache
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex6\obj\Debug\net5.0\Ex6.AssemblyInfo.cs
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex6\obj\Debug\net5.0\Ex6.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex6\obj\Debug\net5.0\Ex6.dll
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex6\obj\Debug\net5.0\ref\Ex6.dll
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex6\obj\Debug\net5.0\Ex6.pdb
+C:\Users\Юлия\source\repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L2\Ex6\obj\Debug\net5.0\Ex6.genruntimeconfig.cache
