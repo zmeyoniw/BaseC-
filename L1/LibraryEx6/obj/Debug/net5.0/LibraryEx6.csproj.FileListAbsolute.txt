@@ -1,0 +1,5 @@
+C:\Users\Юлия\Source\Repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L1\LibraryEx6\obj\Debug\net5.0\LibraryEx6.csprojAssemblyReference.cache
+C:\Users\Юлия\Source\Repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L1\LibraryEx6\obj\Debug\net5.0\LibraryEx6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\Source\Repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L1\LibraryEx6\obj\Debug\net5.0\LibraryEx6.AssemblyInfoInputs.cache
+C:\Users\Юлия\Source\Repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L1\LibraryEx6\obj\Debug\net5.0\LibraryEx6.AssemblyInfo.cs
+C:\Users\Юлия\Source\Repos\Bases-C-\HomeWorkBasicC\HomeWorkBasicC\L1\LibraryEx6\obj\Debug\net5.0\LibraryEx6.csproj.CoreCompileInputs.cache
