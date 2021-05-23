@@ -1,0 +1,10 @@
+C:\Users\Юлия\source\repos\L7\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\Юлия\source\repos\L7\Ex1\bin\Debug\Ex1.exe
+C:\Users\Юлия\source\repos\L7\Ex1\bin\Debug\Ex1.pdb
+C:\Users\Юлия\source\repos\L7\Ex1\obj\Debug\Ex1.csprojAssemblyReference.cache
+C:\Users\Юлия\source\repos\L7\Ex1\obj\Debug\Ex1.Form1.resources
+C:\Users\Юлия\source\repos\L7\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+C:\Users\Юлия\source\repos\L7\Ex1\obj\Debug\Ex1.csproj.GenerateResource.cache
+C:\Users\Юлия\source\repos\L7\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\source\repos\L7\Ex1\obj\Debug\Ex1.exe
+C:\Users\Юлия\source\repos\L7\Ex1\obj\Debug\Ex1.pdb
